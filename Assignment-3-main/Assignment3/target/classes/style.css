@@ -1,0 +1,15 @@
+.root{
+    -fx-background-image: url("gi.gif");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 900 600;
+    -fx-background-position:center center;
+}
+.button{
+    -fx-alignment:center;
+    -fx-content-display:center;
+    -fx-background-color:#FFF-FFF;
+    -FX-border-radius:3;
+}
+.button:hover {
+  -fx-background-color: linear-gradient(#2a5058, #61a2b1);
+}
